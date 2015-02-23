@@ -1,0 +1,14 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "practicing my nodes",
+  "main": "mymodule.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
+}
